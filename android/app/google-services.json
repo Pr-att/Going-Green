@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598242494589",
+    "firebase_url": "https://goinggreen-ee212-default-rtdb.firebaseio.com",
+    "project_id": "goinggreen-ee212",
+    "storage_bucket": "goinggreen-ee212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598242494589:android:f139adc19c2db51af1c914",
+        "android_client_info": {
+          "package_name": "com.example.going_green"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598242494589-69oth54ldl3b4369lu2brik293uatgn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.going_green",
+            "certificate_hash": "a61a1683026f7fda2798c482214f395d4f22b74e"
+          }
+        },
+        {
+          "client_id": "598242494589-d841ds5bbp70m0hkj8imukke7kra94lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0vG3cxrpd6O-jHJg_5gqsqnmydO2Dok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598242494589-d841ds5bbp70m0hkj8imukke7kra94lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598242494589-70lgbie4o1shs2h62i0ig56us3uvsj7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.going.green.goingGreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
